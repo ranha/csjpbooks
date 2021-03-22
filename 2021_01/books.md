@@ -5,4 +5,4 @@
 * 著者: 太田快人
 * 出版社: コロナ社
 * 書籍ページ: [https://www.coronasha.co.jp/np/isbn/9784339033083/](https://www.coronasha.co.jp/np/isbn/9784339033083/)
-* 注記: Part1: https://www.coronasha.co.jp/np/isbn/9784339033076/
+* 注記: Part1: <https://www.coronasha.co.jp/np/isbn/9784339033076/>
