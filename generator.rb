@@ -17,6 +17,9 @@ def md_entry_str(info, need_date)
   body += "* 出版社: #{info[:publisher].to_s}\n"
   url = info[:url].to_s
   body += "* 書籍ページ: [#{url}](#{url})\n"
+  if info[:note]
+    body += "* 注記: #{info[:note].to_s}\n"
+  end
 end
 
 bib = BibTeX.open(bib_file_name)
