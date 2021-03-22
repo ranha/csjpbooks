@@ -2,8 +2,8 @@ require "bibtex"
 
 dir_name = ARGV[0] # YYYY_MM
 match = /(....)_(..)/.match(dir_name)
-year = match[1]
-month = match[2]
+year = match[1] if match
+month = match[2] if match
 bib_file_name = "#{dir_name}/books.bib"
 md_file_name = "#{dir_name}/books.md"
 
@@ -19,7 +19,9 @@ end
 bib = BibTeX.open(bib_file_name)
 
 File.open(md_file_name, "w") {|file|
-  file.puts("#{year}年の#{month}に出る本のページ\n")
+  if year and month
+    file.puts("#{year}年の#{month}に出る本のページ\n")
+  end
   bib.each_entry {|info|
     s = md_entry_str(info)
     file.puts(s)
