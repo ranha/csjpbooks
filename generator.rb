@@ -20,6 +20,7 @@ def md_entry_str(info, need_date)
   if info[:note]
     body += "* 注記: #{info[:note].to_s}\n"
   end
+  return body
 end
 
 bib = BibTeX.open(bib_file_name)
