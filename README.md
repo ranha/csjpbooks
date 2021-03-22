@@ -16,7 +16,7 @@
 
 # お願い
 これから出る本でも、これまでに出た本でも、
-とにかく面白そう、という本があったら教えてください。
+とにかく面白そう、という本を教えてください。
 
 [Twitter](https://twitter.com/ranha)
 または
@@ -27,11 +27,11 @@ Issueを使う場合には、書籍情報のURL単発か、
 以下のbibtexエントリフォーマットだと助かります。
 ```BibTeX
 @book{KEY,
-  author = {著者名(日本語OK)},
+  author = {著者名},
   title = {書籍名},
   publisher = {出版社名},
-  year = {出版年},
-  month = {出版月},
+  year = {出版年 YYYY},
+  month = {出版月 MM},
   url = {書籍情報URL},
 }
 ```
