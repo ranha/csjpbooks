@@ -16,12 +16,14 @@
 
 # お願い
 これから出る本でも、これまでに出た本でも、
-あんまり知られてないかもだけど面白そう、という本があったら教えてください。
+とにかく面白そう、という本があったら教えてください。
 
-[Twitter](https://twitter.com/ranha)でも
-[Github側のissue](https://github.com/ranha/csjpbooks/issues)で登録してくれでも大丈夫です。
+[Twitter](https://twitter.com/ranha)
+または
+[Github側のissue](https://github.com/ranha/csjpbooks/issues)
+への登録でお教えください。
 
-Issueで登録してくださる場合には、書籍情報のURL単発か、
+Issueを使う場合には、書籍情報のURL単発か、
 以下のbibtexエントリフォーマットだと助かります。
 ```BibTeX
 @book{KEY,
