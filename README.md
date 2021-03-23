@@ -11,7 +11,7 @@
 
 
 # 以前に出版されたやつで気になっているもの
-* [Timeless](https://ranha.github.io/csjpbooks/timeless/books)
+* [Timeless](https://ranha.github.io/csjpbooks/timeless)
 
 # お願い
 これから出る本でも、これまでに出た本でも、
