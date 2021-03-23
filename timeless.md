@@ -27,3 +27,31 @@
 * 出版年月: 2016年2月
 * 出版社: アドスリー
 * 書籍ページ: [https://www.maruzen-publishing.co.jp/item/b300786.html](https://www.maruzen-publishing.co.jp/item/b300786.html)
+
+
+# 重点解説 ジョルダン標準形（電子版）
+* 著者: 西山享
+* 出版年月: 2018年3月
+* 出版社: サイエンス社
+* 書籍ページ: [https://www.saiensu.co.jp/search/?isbn=978-4-7819-9934-0&y=2018](https://www.saiensu.co.jp/search/?isbn=978-4-7819-9934-0&y=2018)
+
+
+# 例題形式で探求する微積分学の基本定理(電子版)
+* 著者: 森田茂之
+* 出版年月: 2020年3月
+* 出版社: サイエンス社
+* 書籍ページ: [https://www.saiensu.co.jp/search/?isbn=978-4-7819-9974-6&y=2020](https://www.saiensu.co.jp/search/?isbn=978-4-7819-9974-6&y=2020)
+
+
+# 工学のための 非線形解析入門(電子版)
+* 著者: 藪野浩司
+* 出版年月: 2018年6月
+* 出版社: サイエンス社
+* 書籍ページ: [https://www.saiensu.co.jp/search/?isbn=978-4-7819-9950-0&y=2018](https://www.saiensu.co.jp/search/?isbn=978-4-7819-9950-0&y=2018)
+
+
+# 伝えるための理工系英語(電子版)
+* 著者: 宮野健次郎
+* 出版年月: 2018年5月
+* 出版社: サイエンス社
+* 書籍ページ: [https://www.saiensu.co.jp/search/?isbn=978-4-7819-9944-9&y=2018](https://www.saiensu.co.jp/search/?isbn=978-4-7819-9944-9&y=2018)
