@@ -3,12 +3,7 @@
 
 今見ているこのページ <https://ranha.github.io/csjpbooks/> が top page です。
 
-# 2021
-* [2021/1 (1冊)](2021_1.html)
-* [2021/2 (2冊)](2021_2.html)
-* [2021/3 (2冊)](2021_3.html)
-* [2021/4 (1冊)](2021_4.html)
-
+<%= this_year_links %>
 
 # 以前に出版されたやつで気になっているもの
 * [Timeless](https://ranha.github.io/csjpbooks/timeless/books)
