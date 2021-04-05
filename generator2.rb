@@ -14,6 +14,8 @@ def md_entry_str(info, timeless)
   body += "* 著者: #{info[:author].to_s}\n"
   if timeless
     body += "* 出版年月: #{info[:year].to_s}年#{info[:month_numeric].to_s}月\n"
+  elsif info[:date]
+    body += "* 出版年月日: #{info[:year].to_s}年#{info[:month_numeric].to_s}月#{info[:date].to_s}日\n"
   end
   body += "* 出版社: #{info[:publisher].to_s}\n"
   url = info[:url].to_s
